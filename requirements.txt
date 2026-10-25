@@ -1,0 +1,7 @@
+pydataxm
+pandas>=2.2
+numpy
+scipy
+matplotlib
+requests
+ipykernel
